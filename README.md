@@ -1,2 +1,1 @@
-# UnlimitedPaneraSipClub
-Final Group Project for a Data Science Course at UIC where we utilized Machine Learning to predict and analyze a subscription services impact on a business.
+[Spring2024_CS418_Project_Specifications.pdf](https://github.com/Ericaly21/UnlimitedPaneraSipClub/files/14842440/Spring2024_CS418_Project_Specifications.pdf)
